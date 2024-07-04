@@ -43,14 +43,14 @@ I bring a unique blend of technical expertise and creative vision to web develop
 ---
 
 ![Missoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GideonMissoy&show_icons=true&theme=dark)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GideonMissoy&theme=dark)](https://github.com/GideonMissoy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonMissoy&layout=compact&theme=dark)](https://github.com/GideonMissoy)
 
 <h2 align="center">
   <a href="https://github.com/GideonMissoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonMissoy&layout=compact&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GideonMissoy&theme=dark" alt="GitHub Streak">
   </a>
 </h2>
+
 
 
 
